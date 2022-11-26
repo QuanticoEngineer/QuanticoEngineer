@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuanticoEngineer
 - 👀 I’m interested in computers, EVs, robotics, automation and technology in general.
 - 🌱 I’m currently learning the C language, and I work as a eletronics technician.
-- 💞️ I’m looking to collaborate on C projects, and even on open source projects, such as Android custom rom!
+- 💞️ I’m looking to collaborate on open source projects !
 - 📫 Somewhere on the planet. 
 
 <!---
